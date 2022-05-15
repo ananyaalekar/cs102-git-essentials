@@ -1,0 +1,5 @@
+git clone: clones a repository from the server to your local machine
+git commit -m: saves/stores changes made in the repository
+git add: stages the changes made in the repository
+git push: pushes the changes made in the repository, to the server
+git status: displays the status of the repository
